@@ -2,6 +2,177 @@
     padding: 0;
     margin: 0;
 }
+.conteiner1{
+    width: 100%;
+    background-color:white;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.ycentr{
+
+    width: 80%;
+    margin: auto;
+
+}
+.Unique{
+    font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+text-transform: capitalize;
+color: #212529;
+
+
+text-align: center;
+padding-bottom: 20px;
+}
+.required{
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    text-align: center;    
+    color: #999999;
+}
+.enclosed {
+    text-align: center;
+
+
+    font-weight: 400;
+    font-size: 15px;
+
+
+    line-height: 26px;
+    text-align: center;    
+    color: #999999;
+    margin-bottom: 45px;
+}
+.flex1{
+    display: flex;
+    justify-content: space-between;
+}
+.word1{
+    width: 25%;
+    border: 1px solid #e0e1e4;
+border-radius: 10px ;
+}
+.centr2{
+    width: 80%;
+    margin: auto;
+}
+
+.Effective{
+padding-top: 36px;
+padding-bottom: 14px;
+
+
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 22px;
+    color: #000000;
+}
+.viroblock{
+    font-weight: 400;
+    font-size: 15px;
+
+
+    line-height: 28px;
+     color: #6F7074;
+}
+.Learn{
+    font-weight: 600;
+font-size: 16px;
+line-height: 15px;
+color: #212529;
+
+
+padding-top: 23px;
+padding-bottom: 47px;
+}
+.polo1:hover{
+background-color: #e0e1e4;
+color: #000000;
+}
+.polo1{
+
+    text-align: center;
+    border-radius: 10%;
+    padding: 15px 7px;
+
+
+    color: #e0e1e4;
+    margin-top: 48px;
+
+
+
+    margin-bottom: 53px;
+    width: 20%;
+    background-color: rgb(61, 61, 233);
+    background: #006FF9;
+border-radius: 8px;
+}
+.word1:hover{
+    background-color: #006FF9;
+    color: aliceblue;
+    
+}
+.word1:hover ,  .Effective  .Learn , .viroblock , .polo1 {
+    color: #afb0b6;
+}
+
+
+.word1:hover .polo1{
+    background-color: azure;
+    color: #000000;
+}
+.Effective{
+    color: #000000;
+}
+.leader{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    width: 40%;
+}
+.right{
+    width: 40%;
+}
+.Enhanced{
+    padding-bottom: 14px;
+    font-weight: 600;  
+
+
+    font-size: 14px;
+    line-height: 18px;    
+
+    
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-feature-settings: 'liga' off;    
+
+
+    color: #006FF9; 
+}
+.Face{
+    font-weight: 600;
+font-size: 26px;
+line-height: 36px;
+font-feature-settings: 'liga' off;
+color: #212529;
+padding-bottom: 14px;
+}
+.att{
+    font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+font-feature-settings: 'liga' off;
+color: #6F7074;
+}
+.ymmm{
+    margin-top: 100px;
+    width: 75%;
+}
 .XM-center{
     width: 80%;
 }
