@@ -9,6 +9,7 @@
 .kh-container{
     display: flex;
     justify-content: center;
+    overflow: hidden;
 }
 .kh-navbar{
     display: flex;
